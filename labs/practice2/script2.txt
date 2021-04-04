@@ -20,8 +20,7 @@ switch (period) {
 int x = 1, y = 1, z = 0; 
 if (x == y | x < ++y) { 
 	z = x+y; 
-}
-else{
+} else{
 	z = 1;
 }
 System.out.println(z);
