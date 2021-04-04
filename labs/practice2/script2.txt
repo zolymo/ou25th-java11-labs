@@ -24,3 +24,4 @@ if (x == y | x < ++y) {
 else{
 	z = 1;
 }
+System.out.println(z);
